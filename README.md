@@ -1,2 +1,2 @@
 # ArticlesWordAnalysis
-A class to read html articles and analyse the word frequency
+A class to read html articles and analyse the word frequencies.
